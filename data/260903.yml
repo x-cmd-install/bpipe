@@ -1,0 +1,60 @@
+about:
+  description: Bpipe - a tool for running and managing bioinformatics pipelines
+  license: NOASSERTION
+  homepage: http://docs.bpipe.org/
+  head: c48561a
+  archived: false
+  latestVersion: 0.9.14
+  collectedAt: 2026-09-03T03:33:41Z
+timeline:
+  created: 2014-10-20
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-16
+popularity:
+  star: 242
+  watcher: 14
+  fork: 61
+  release: 18
+  contributor: 16
+  pullRequest: 10
+  issue: 260
+language:
+  Groovy: 1637796
+  Shell: 172338
+  HTML: 58780
+  Java: 48466
+  Roff: 3
+totalLine: 1917383
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 6
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 92
+  last360d:
+    since: 2025-09-08
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 135
