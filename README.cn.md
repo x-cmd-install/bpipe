@@ -4,7 +4,7 @@
 
 Bpipe - a tool for running and managing bioinformatics pipelines
 
-![bpipe](https://repo.x-cmd.io/bpipe.svg)
+![bpipe](https://repo.x-cmd.io/bpipe.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,13 @@ x install bpipe
 - **最新版本**: `0.9.14` (2026-08-16)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-08-16T23:22:41Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [bpipe-0.9.14.tar.gz](https://github.com/ssadedin/bpipe/releases/download/0.9.14/bpipe-0.9.14.tar.gz) | 51.4 MiB | `native/unknown` |
+| [bpipe-0.9.14.zip](https://github.com/ssadedin/bpipe/releases/download/0.9.14/bpipe-0.9.14.zip) | 51.4 MiB | `other` |
 
 ## 流行度
 
@@ -62,4 +68,4 @@ bpipe 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:52:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:25:48Z._

@@ -23,7 +23,13 @@ x install bpipe
 - **Latest**: `0.9.14` (2026-08-16)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 2
-- **Published**: 2026-08-16T23:22:41Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [bpipe-0.9.14.tar.gz](https://github.com/ssadedin/bpipe/releases/download/0.9.14/bpipe-0.9.14.tar.gz) | 51.4 MiB | `native/unknown` |
+| [bpipe-0.9.14.zip](https://github.com/ssadedin/bpipe/releases/download/0.9.14/bpipe-0.9.14.zip) | 51.4 MiB | `other` |
 
 ## Popularity
 
@@ -58,8 +64,8 @@ Total: **36,210** lines of code across **1039** files in the top 5 languages.
 Install metadata for bpipe lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bpipe` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/bpipe.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/bpipe.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:52:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:47Z._
