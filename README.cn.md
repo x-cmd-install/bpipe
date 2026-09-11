@@ -12,6 +12,18 @@ Bpipe - a tool for running and managing bioinformatics pipelines
 x install bpipe
 ```
 
+## 代码洞察
+
+合计: **36,210** 行代码（覆盖前 5 种语言、共 **1039** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Groovy | 30,846 | 10,241 | 8,890 | 511 |
+| Sh | 3,211 | 511 | 1,633 | 491 |
+| Html | 792 | 0 | 353 | 9 |
+| Bash | 634 | 237 | 141 | 4 |
+| Java | 596 | 662 | 235 | 24 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/ssadedin/bpipe>
@@ -23,13 +35,6 @@ x install bpipe
 - **最新版本**: `0.9.14` (2026-08-16)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 2 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [bpipe-0.9.14.tar.gz](https://github.com/ssadedin/bpipe/releases/download/0.9.14/bpipe-0.9.14.tar.gz) | 51.4 MiB | `native/unknown` |
-| [bpipe-0.9.14.zip](https://github.com/ssadedin/bpipe/releases/download/0.9.14/bpipe-0.9.14.zip) | 51.4 MiB | `other` |
 
 ## 流行度
 
@@ -43,21 +48,19 @@ x install bpipe
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 12 |
-| 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 16 |
-| 360d | 2025-09-15 | 1 | 2 | 0 | 0 | 1 | 126 |
+| 30d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 12 |
+| last60d | 2026-07-13 | 1 | 0 | 0 | 0 | 0 | 16 |
+| 90d | 2026-06-13 | 1 | 0 | 0 | 0 | 0 | 16 |
+| last180d | 2026-03-15 | 1 | 0 | 0 | 0 | 1 | 98 |
+| 360d | 2025-09-16 | 1 | 2 | 0 | 0 | 1 | 126 |
+| last720d | 2024-09-21 | 1 | 3 | 0 | 0 | 3 | 207 |
 
-## 代码规模
+## Release 资产
 
-合计: **36,210** 行代码（覆盖前 5 种语言、共 **1039** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Groovy | 30,846 | 10,241 | 8,890 | 511 |
-| Sh | 3,211 | 511 | 1,633 | 491 |
-| Html | 792 | 0 | 353 | 9 |
-| Bash | 634 | 237 | 141 | 4 |
-| Java | 596 | 662 | 235 | 24 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [bpipe-0.9.14.tar.gz](https://github.com/ssadedin/bpipe/releases/download/0.9.14/bpipe-0.9.14.tar.gz) | 51.4 MiB | `native/unknown` |
+| [bpipe-0.9.14.zip](https://github.com/ssadedin/bpipe/releases/download/0.9.14/bpipe-0.9.14.zip) | 51.4 MiB | `other` |
 
 ## 改进这些数据
 
@@ -68,4 +71,4 @@ bpipe 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:25:48Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:17:11Z._
