@@ -7,7 +7,7 @@ about:
   latestVersion: "0.9.14"
   latestRelease: "0.9.14"
   latestPrerelease: "0.9.9_beta_1"
-  collectedAt: 2026-09-11T00:17:00Z
+  collectedAt: 2026-09-11T04:57:37Z
 timeline:
   created: 2014-10-20
   lastCommit: 2026-09-04
@@ -87,7 +87,7 @@ total:
   commit: 2670
 ---
 path: /home/runner/.x-repo/github.com/ssadedin/bpipe
-collectedAt: 2026-09-11T00:17:05Z
+collectedAt: 2026-09-11T04:57:40Z
 loc:
   Groovy:
     code: 30846
