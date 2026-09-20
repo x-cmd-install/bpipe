@@ -4,7 +4,7 @@
 
 Bpipe - a tool for running and managing bioinformatics pipelines
 
-![bpipe](https://repo.x-cmd.io/bpipe.svg)
+[![x-cmd/install — bpipe Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bpipe.svg)](https://x-cmd.com/install/bpipe)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install bpipe
 
 ## Code insight
 
-Total: **36,210** lines of code across **1039** files in the top 5 languages.
+Total: **36,746** lines of code across **1044** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 30,846 | 10,241 | 8,890 | 511 |
-| Sh | 3,211 | 511 | 1,633 | 491 |
+| Groovy | 31,379 | 10,745 | 9,046 | 516 |
+| Sh | 3,214 | 516 | 1,632 | 491 |
 | Html | 792 | 0 | 353 | 9 |
-| Bash | 634 | 237 | 141 | 4 |
+| Bash | 633 | 237 | 141 | 4 |
 | Java | 596 | 662 | 235 | 24 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **36,210** lines of code across **1039** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.9.14` (2026-08-16)
-- **Last commit**: 2026-09-04
+- **Last commit**: 2026-09-19
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **36,210** lines of code across **1039** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 28 · **Open PRs**: 6 · **Closed issues**: 108 · **Open issues**: 152 · **Commits**: 2670
+- **Releases**: 18 · **Merged PRs**: 28 · **Open PRs**: 6 · **Closed issues**: 108 · **Open issues**: 152 · **Commits**: 2687
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 0 | 0 | 16 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 0 | 0 | 16 |
-| last180d | 2026-03-22 | 1 | 0 | 0 | 0 | 1 | 98 |
-| 360d | 2025-09-23 | 1 | 2 | 0 | 0 | 1 | 118 |
-| last720d | 2024-09-28 | 1 | 3 | 0 | 0 | 3 | 207 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 24 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 0 | 29 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 0 | 0 | 33 |
+| last180d | 2026-03-24 | 1 | 0 | 0 | 0 | 1 | 115 |
+| 360d | 2025-09-25 | 1 | 2 | 0 | 0 | 1 | 128 |
+| last720d | 2024-09-30 | 1 | 3 | 0 | 0 | 3 | 224 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for bpipe lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:51:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:11:57Z._
