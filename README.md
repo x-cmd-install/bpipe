@@ -14,14 +14,14 @@ x install bpipe
 
 ## Code insight
 
-Total: **36,746** lines of code across **1044** files in the top 5 languages.
+Total: **37,121** lines of code across **1047** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 31,379 | 10,745 | 9,046 | 516 |
-| Sh | 3,214 | 516 | 1,632 | 491 |
+| Groovy | 31,582 | 10,841 | 9,088 | 518 |
+| Sh | 3,217 | 523 | 1,635 | 492 |
+| Bash | 802 | 290 | 174 | 4 |
 | Html | 792 | 0 | 353 | 9 |
-| Bash | 633 | 237 | 141 | 4 |
 | Java | 596 | 662 | 235 | 24 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **36,746** lines of code across **1044** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.9.14` (2026-08-16)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-10-23
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **36,746** lines of code across **1044** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 28 · **Open PRs**: 6 · **Closed issues**: 108 · **Open issues**: 152 · **Commits**: 2687
+- **Releases**: 18 · **Merged PRs**: 28 · **Open PRs**: 6 · **Closed issues**: 108 · **Open issues**: 152 · **Commits**: 2696
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 24 |
-| 90d | 2026-07-25 | 1 | 0 | 1 | 0 | 0 | 29 |
-| last180d | 2026-04-26 | 1 | 0 | 1 | 0 | 0 | 108 |
-| 360d | 2025-10-28 | 1 | 1 | 1 | 0 | 1 | 118 |
-| last720d | 2024-11-02 | 1 | 3 | 1 | 0 | 3 | 218 |
+| 30d | 2026-09-24 | 0 | 0 | 1 | 0 | 0 | 6 |
+| last60d | 2026-08-25 | 0 | 0 | 1 | 0 | 0 | 33 |
+| 90d | 2026-07-26 | 1 | 0 | 1 | 0 | 0 | 38 |
+| last180d | 2026-04-27 | 1 | 0 | 1 | 0 | 0 | 117 |
+| 360d | 2025-10-29 | 1 | 1 | 1 | 0 | 1 | 127 |
+| last720d | 2024-11-03 | 1 | 3 | 1 | 0 | 3 | 227 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for bpipe lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:59:15Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:38:45Z._
