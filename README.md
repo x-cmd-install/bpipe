@@ -48,12 +48,12 @@ Total: **37,588** lines of code across **1052** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 1 | 0 | 0 | 17 |
-| last60d | 2026-09-22 | 0 | 0 | 2 | 0 | 0 | 17 |
-| 90d | 2026-08-23 | 0 | 0 | 2 | 0 | 0 | 44 |
-| last180d | 2026-05-25 | 1 | 0 | 2 | 0 | 0 | 64 |
-| 360d | 2025-11-26 | 1 | 0 | 2 | 0 | 1 | 136 |
-| last720d | 2024-12-01 | 1 | 3 | 2 | 0 | 3 | 237 |
+| 30d | 2026-10-23 | 0 | 0 | 1 | 0 | 0 | 5 |
+| last60d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 17 |
+| 90d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 42 |
+| last180d | 2026-05-26 | 1 | 0 | 2 | 0 | 0 | 53 |
+| 360d | 2025-11-27 | 1 | 0 | 2 | 0 | 1 | 136 |
+| last720d | 2024-12-02 | 1 | 3 | 2 | 0 | 3 | 237 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for bpipe lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:05:03Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:55:27Z._
