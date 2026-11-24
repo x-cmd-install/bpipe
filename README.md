@@ -33,7 +33,7 @@ Total: **38,227** lines of code across **1059** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.9.14` (2026-08-16)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-24
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **38,227** lines of code across **1059** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 28 · **Open PRs**: 7 · **Closed issues**: 108 · **Open issues**: 152 · **Commits**: 2718
+- **Releases**: 18 · **Merged PRs**: 28 · **Open PRs**: 7 · **Closed issues**: 108 · **Open issues**: 152 · **Commits**: 2719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 1 | 0 | 0 | 13 |
-| last60d | 2026-09-24 | 0 | 0 | 2 | 0 | 0 | 25 |
-| 90d | 2026-08-25 | 0 | 0 | 2 | 0 | 0 | 50 |
-| last180d | 2026-05-27 | 1 | 0 | 2 | 0 | 0 | 61 |
-| 360d | 2025-11-28 | 1 | 0 | 2 | 0 | 1 | 144 |
-| last720d | 2024-12-03 | 1 | 3 | 2 | 0 | 3 | 247 |
+| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 14 |
+| last60d | 2026-09-25 | 0 | 0 | 2 | 0 | 0 | 26 |
+| 90d | 2026-08-26 | 0 | 0 | 2 | 0 | 0 | 51 |
+| last180d | 2026-05-28 | 1 | 0 | 2 | 0 | 0 | 62 |
+| 360d | 2025-11-29 | 1 | 0 | 2 | 0 | 1 | 145 |
+| last720d | 2024-12-04 | 1 | 3 | 2 | 0 | 3 | 248 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for bpipe lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:47:52Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:09:49Z._
